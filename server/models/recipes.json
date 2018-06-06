@@ -52,11 +52,7 @@
       "model": "Ingredient",
       "foreignKey": "ingredients"
     }
-
-
   },
-  "acls": [
-
-  ],
+  "acls": [],
   "methods": {}
 }

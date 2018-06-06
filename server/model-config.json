@@ -36,5 +36,13 @@
   "Attribute": {
     "dataSource": "searchDS",
     "public": true
+  },
+  "ImportContainer": {
+    "dataSource": "container",
+    "public": false
+  },
+  "ImportLog": {
+    "dataSource": "searchDS",
+    "public": true
   }
 }
